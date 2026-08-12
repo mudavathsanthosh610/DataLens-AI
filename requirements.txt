@@ -4,6 +4,7 @@ duckdb>=1.4.1
 pandas
 numpy==1.26.4
 agno>=2.2.10
+google-genai
 pypdf>=4.0.0
 python-pptx>=1.0.0
 python-dotenv>=1.0.0
