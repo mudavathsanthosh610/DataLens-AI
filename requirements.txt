@@ -1,8 +1,8 @@
-streamlit==1.41.1
-openai==1.58.1
+streamlit>=1.41.0
+openai>=1.58.1
 duckdb>=1.4.1
 pandas
-numpy==1.26.4
+numpy
 agno>=2.2.10
 google-genai
 pypdf>=4.0.0
